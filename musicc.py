@@ -3,10 +3,10 @@ import pygame
 import os
 import sys  
 
-# Initialize pygame mixer
+
 pygame.mixer.init()
 
-# Initialize screen
+
 screen = turtle.Screen()
 screen.bgcolor("gray30")
 screen.setup(width=1000, height=600)
